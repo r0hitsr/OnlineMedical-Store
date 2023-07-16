@@ -9,3 +9,11 @@ If they are not return the expiry products to the distributor in time then they 
 So it is very essential to track expiry items prior one month or before, then only they can able to return these products back. 
 To find the product is also another risky job. So proper system is required. They need a full pledged software to maintain their day to day transactions.
 Apart from this regular update on stock. Supplier information. Daily purchase report. Etc.
+
+
+ About Project:-
+  IDE Tool	             Nedbeans
+  Project Platform	     Java
+  Programming Language	 Java
+  Database	             Mysql
+  Project Type	         Desktop Application
